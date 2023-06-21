@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Bike Ride",
+      "day": "June 21st at 5.30am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Get Groceries",
+      "day": "June 22nd at 7 pm",
+      "reminder": true
+    },
+    {
+      "text": "Saurin",
+      "day": "Today ",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
